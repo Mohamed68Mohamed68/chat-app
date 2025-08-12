@@ -18,7 +18,6 @@ It features a clean and modern UI with support for both one-to-one and group cha
 - **Framework**: Flutter  
 - **Language**: Dart  
 - **Backend**: Firebase (Authentication, Firestore, Storage)
-- **State Management**: BLoC With Cubit
 
 ---
 
