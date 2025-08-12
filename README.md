@@ -1,4 +1,4 @@
-# 💬 Flutter Chat App
+# 💬 Flutter Chat App 
 
 This project is a **Chat Application** built with [Flutter](https://flutter.dev/) that allows users to send and receive real-time messages.  
 It features a clean and modern UI with support for both one-to-one and group chats.
