@@ -103,14 +103,16 @@ class ChatPage extends StatelessWidget {
           );
         } else {
           return Scaffold(
-              body: Center(
-                  child: Text(
-            'Loading...',
-            style: TextStyle(
-              fontSize: 48,
-              fontWeight: FontWeight.bold,
+            body: Center(
+              child: Text(
+                'Loading...',
+                style: TextStyle(
+                  fontSize: 48,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
             ),
-          )));
+          );
         }
       },
     );
