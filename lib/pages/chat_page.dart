@@ -118,3 +118,4 @@ class ChatPage extends StatelessWidget {
     );
   }
 }
+
